@@ -93,13 +93,23 @@ I'm a Software Engineer currently working in **DevOps**, with an interest in clo
 </div>
 
 
+
 ## 📈 Contribution Activity
 
 <div align="center">
 
-[![Meriyan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MeriyanIslam&theme=tokyo-night&hide_border=true&area=true)](https://github.com/MeriyanIslam)
+<a href="https://github.com/MeriyanIslam">
+  <img src="https://github-readme-stats.vercel.app/api?username=MeriyanIslam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
+</a>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MeriyanIslam&theme=tokyonight&hide_border=true)](https://github.com/MeriyanIslam)
 
 </div>
+
+**🔗 [View My GitHub Contributions](https://github.com/MeriyanIslam?tab=overview&from=2026-01-01&to=2026-12-31)**
+
 
 ---
 
