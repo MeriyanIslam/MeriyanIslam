@@ -92,11 +92,12 @@ I'm a Software Engineer currently working in **DevOps**, with an interest in clo
 
 </div>
 
+
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MeriyanIslam&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity"/>
+[![Meriyan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MeriyanIslam&theme=tokyo-night&hide_border=true&area=true)](https://github.com/MeriyanIslam)
 
 </div>
 
