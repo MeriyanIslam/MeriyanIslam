@@ -28,7 +28,7 @@
 
 I'm a Software Engineer currently working in **DevOps**, with an interest in cloud infrastructure, automation, deployment, and scalable applications.
 
-- 🔭 Currently working in **DevOps Engineering**
+- 🔭 Working in **DevOps Engineering**
 - ☁️ Exploring cloud infrastructure and AWS services
 - 🐳 Building and deploying containerized applications
 - ⚙️ Practicing CI/CD pipelines and Infrastructure as Code
